@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Gene! And I am currently working on QA automation frameworks that consist of both UI and API tests built with Selenium/testNG/jUnit/Maven.
+I am expanding expertise into JavaScript, Cypress, and Docker.
+
+Reach me here: geneshen007@gmail.com 😺
 
 <!--
 **GeneShen007/GeneShen007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
